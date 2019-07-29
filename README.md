@@ -1,5 +1,5 @@
 index.html
-starwars.intro.css
+starwarsintro.css
 theme-logo.png
 theme-logo.jpg
 theme.mp3
